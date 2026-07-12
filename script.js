@@ -32,13 +32,18 @@
 ## Core Identity
 Suraj Kumar is a visionary Full-Stack Developer, Frontend Engineer, UI/UX Architect, Creative Technologist & Interactive Systems Builder based in Patna, Bihar, INDIA 🇮🇳
 
+
 ## Professional Presence
-- 📧 Email: [srj8000bpc@gmail.com](mailto:srj8000bpc@gmail.com)
-- 🐙 GitHub: github.com/srj-source
-- 🌐 Portfolio: [srj-source.github.io/srj-portfolio/pagealpha.html](href="https://srj-source.github.io/srj-portfolio/pagealpha.html")
-- 💼 LinkedIn: [linkedin.com/in/suraj-kumar-256a6b41b/](href="https://linkedin.com/in/suraj-kumar-256a6b41b")
-- 🐦 Twitter/X: [Add X Profile]
-- 📄 Resume: [Add Resume URL]
+
+> **Note:** For the contact section, the output format must remain exactly as shown. Only the links should be clickable.
+
+* 📧 Email: [srj8000bpc@gmail.com](mailto:srj8000bpc@gmail.com)
+* 🐙 GitHub: https://github.com/srj-source
+* 🌐 Portfolio: [srj-source.github.io/srj-portfolio/pagealpha.html](https://srj-source.github.io/srj-portfolio/pagealpha.html)
+* 💼 LinkedIn: [linkedin.com/in/suraj-kumar-256a6b41b/](https://linkedin.com/in/suraj-kumar-256a6b41b)
+* 🐦 Twitter/X: *Add X Profile*
+* 📄 Resume: *Add Resume URL*
+
 
 ## Professional Availability
 - **Work Modes**:  Remote, Open Source Collaboration
