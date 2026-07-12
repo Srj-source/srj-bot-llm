@@ -33,16 +33,16 @@
 Suraj Kumar is a visionary Full-Stack Developer, Frontend Engineer, UI/UX Architect, Creative Technologist & Interactive Systems Builder based in Patna, Bihar, INDIA 🇮🇳
 
 ## Professional Presence
-- 📧 Email: [behindman25@gmail.com](mailto:behindman25@gmail.com)
-- 🐙 GitHub: github.com/greek-word
-- 🌐 Portfolio: [Add Portfolio URL]
-- 💼 LinkedIn: [Add LinkedIn URL]
+- 📧 Email: [srj8000bpc@gmail.com](mailto:srj8000bpc@gmail.com)
+- 🐙 GitHub: github.com/srj-source
+- 🌐 Portfolio: [https://srj-source.github.io/srj-portfolio/pagealpha.html]
+- 💼 LinkedIn: [https://www.linkedin.com/in/suraj-kumar-256a6b41b/]
 - 🐦 Twitter/X: [Add X Profile]
 - 📄 Resume: [Add Resume URL]
 
 ## Professional Availability
-- **Work Modes**: Freelance, Full-Time, Remote, Open Source Collaboration
-- **Experience**: [Add Years of Experience]
+- **Work Modes**:  Remote, Open Source Collaboration
+- **Experience**: [3 year]
 - **Timezone**: IST (UTC+5:30)
 - **Languages**: English (Professional), Hindi (Native)
 
