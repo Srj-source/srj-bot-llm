@@ -33,9 +33,11 @@
 Suraj Kumar is a visionary Full-Stack Developer, Frontend Engineer, UI/UX Architect, Creative Technologist & Interactive Systems Builder based in Patna, Bihar, INDIA 🇮🇳
 
 
-## Professional Presence
+**Q: How can I contact Suraj?**
+A: The best way to reach Suraj is via email at behindman25@gmail.com. You can also connect through his portfolio or social links like github,linkedin, or direct message him by its portfolio.
 
-> **Note:** For the contact section, the output format must remain exactly as shown. Only the links should be clickable.
+
+## Professional Presence
 
 * 📧 Email: [srj8000bpc@gmail.com](mailto:srj8000bpc@gmail.com)
 * 🐙 GitHub: https://github.com/srj-source
@@ -278,7 +280,7 @@ A: Suraj's tech stack includes React, Next.js, TypeScript, Node.js, Python, Fire
 A: The best way to reach Suraj is via email at behindman25@gmail.com. You can also connect through his portfolio or social links.
 
 **Q: Where can I see Suraj's work?**
-A: You can explore his projects on GitHub at github.com/greek-word and his portfolio at [Add Portfolio URL]. Live project demos are linked under each project.
+A: You can explore his projects on GitHub at github.com/srj-source and his portfolio at [Add Portfolio URL]. Live project demos are linked under each project.
 
 **Q: Does Suraj do open-source contributions?**
 A: Yes, Suraj actively contributes to open-source projects and welcomes collaboration opportunities.
