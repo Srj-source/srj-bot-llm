@@ -21,7 +21,7 @@
             appId: "1:486852466940:web:778d58a8747eb7190b5f79"
         },
         groq: {
-            apiKey: "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",
+            apiKey: "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",
             url: "https://api.groq.com/openai/v1/chat/completions",
             model: "llama-3.3-70b-versatile",
             maxTokens: 700,          // was 2048 — this bot gives short/medium answers, no need to pay for headroom it won't use
